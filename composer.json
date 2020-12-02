@@ -1,5 +1,5 @@
 {
-    "name": "todopago/php-sdk",
+    "name": "guxedo/php-sdk",
     "description": "SDK para TodoPago",
     "require": {
         "php": ">=5.3"
@@ -12,11 +12,8 @@
     },
     "repositories": [
         {
-             "type": "composer",
-             "url": "https://packagist.org"
-        },
-        { 
-            "packagist": false 
+            "type": "vcs",
+            "url": "https://github.com/guxedo/php-sdk"
         }
     ],
     "require-dev": {
