@@ -1,5 +1,5 @@
 {
-    "name": "guxedo/SDK-PHP",
+    "name": "guxedo/php-sdk",
     "description": "SDK para TodoPago",
     "require": {
         "php": ">=5.3"
@@ -13,7 +13,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/guxedo/SDK-PHP"
+            "url": "https://github.com/guxedo/php-sdk"
         }
     ],
     "require-dev": {
